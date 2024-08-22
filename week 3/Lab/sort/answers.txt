@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Because, sort1 has the slowest speed,
+
+sort2 uses: Merge
+
+How do you know?: Because, sort2 has the fastest speed.
+
+sort3 uses: Selection
+
+How do you know?: Because, sort 3 outspeed sort 1.
